@@ -54,7 +54,7 @@
 -------------------
 ##  Take a look on my projects:
 -------------------
- <a href="https://nodejs.org" target="_blank">Pokemon App  </a>
+ <a style="color: blue" href="https://github.com/salomone2401/PI-Pokemon-FT13" target="_blank">Pokemon App  </a>
 
 <br />
 
