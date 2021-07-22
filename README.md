@@ -53,9 +53,10 @@
 
 -------------------
 ##  Take a look on my projects:
--------------------
+
  <a style="color: blue" href="https://github.com/salomone2401/PI-Pokemon-FT13" target="_blank">Pokemon App  </a>
 
+ <a style="color: blue" href="https://github.com/salomone2401/IlustracionesSofia" target="_blank">Ilustraciones Sofia </a>
 <br />
 
 
