@@ -51,6 +51,10 @@
   </p>
 
 
+-------------------
+##  Take a look on my projects:
+-------------------
+ <a href="https://nodejs.org" target="_blank">Pokemon App  </a>
 
 <br />
 
