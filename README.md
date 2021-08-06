@@ -57,6 +57,8 @@
  <a style="color: blue" href="https://github.com/salomone2401/PI-Pokemon-FT13" target="_blank">Pokemon App  </a>
 
  <a style="color: blue" href="https://github.com/salomone2401/Budget" target="_blank">Budget App</a>
+ 
+  <a style="color: blue" href="https://github.com/salomone2401/MernTasks" target="_blank">Mern Tasks</a>
 <br />
 
 
