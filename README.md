@@ -50,16 +50,6 @@
   </a>
   </p>
 
-
--------------------
-##  Take a look on some of my projects:
-
- <a style="color: blue" href="https://github.com/salomone2401/PI-Pokemon-FT13" target="_blank">Pokemon App  </a>
- 
-  <a style="color: blue" href="https://github.com/salomone2401/MernTasks" target="_blank">Mern Tasks</a>
-<br />
-
-
 -------------------
 Contact me
 -------------------
