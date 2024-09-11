@@ -55,5 +55,4 @@ Contact me
 -------------------
 ##  
 * salomoneanapaulah3@gmail.com  📧
-* +549 2615064408  📲
 * https://www.linkedin.com/in/ 💛
